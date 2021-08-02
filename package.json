@@ -1,25 +1,25 @@
 {
   "name": "armazemdigital",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "description": "",
+  "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
+    "express": "^4.17.1",
     "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomazszy/Projeto_ArmazemDigital.git"
+    "url": "git+https://github.com/ruancorreia/armazemDigital.git"
   },
+  "author": "\"ruancorreia\"",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thomazszy/Projeto_ArmazemDigital/issues"
+    "url": "https://github.com/ruancorreia/armazemDigital/issues"
   },
-  "homepage": "https://github.com/thomazszy/Projeto_ArmazemDigital#readme",
-  "description": ""
+  "homepage": "https://github.com/ruancorreia/armazemDigital#readme"
 }
