@@ -26,6 +26,7 @@
 .lupa{
     position: relative;
     left: -30px;
+    top: 8px;
 }
 .busca{
     text-align: center;
@@ -71,4 +72,5 @@
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-around;
+    font-family: 'Open Sans';
 }
